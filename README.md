@@ -3,7 +3,7 @@
 3D godot game about urban exploring
 
 ### Main Idea
-**3D game** with **co-op** and **proximity chat** taking inspiration from *lethal company*, *phasmophobia*.
+**3D game** with **co-op** and **proximity chat** taking inspiration from *lethal company*, *phasmophobia* and *bigfoot*.
 
 ### Ideas for maps and enemies
 #### Maps
