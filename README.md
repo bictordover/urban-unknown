@@ -23,6 +23,6 @@
 > * Rake
 
 ### Assets
-Fmod - proximity chat
-Blender - models
-Godot - engine
+Fmod - proximity chat.
+Blender - models.
+Godot - engine.
