@@ -21,6 +21,7 @@
 > * Rat Man
 > * Slender Man
 > * Rake
+> * Sasquatch
 
 ### Assets
 Fmod - proximity chat.
